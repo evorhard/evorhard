@@ -1,7 +1,7 @@
 <h1> Welcome to my Github page.</h1>
 
 <p>
-  My name is Evert a.k.a. Evorhard, a fullstack developer from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="10"/> Eindhoven, Netherlands. I have 8 years of experience developing in Python, currently expanding my programming horizons with Rust.
+  My name is Evert a.k.a. Evorhard, a fullstack developer from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="10"/> Eindhoven, Netherlands. I have 8 years of experience developing in Python, currently expanding my programming horizons with Rust, Solidity, Javascript and whatever else I fancy at the moment.
 </p>
 <p>
   My avatar is in remembrance of my father who lost his life to cancer in May, 2023. A "great tit"; his favorite bird.
