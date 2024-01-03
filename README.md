@@ -8,7 +8,7 @@
 </p>
 <h3>Things I Am Working On</h3>
   <ul>
-    <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em>a Python-based application designed to help the way music enthusiasts discover new albums.</em></li>
+    <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums.</em></li>
   </ul>
 <h3>Things I Use</h3>
 <span>
