@@ -10,9 +10,9 @@
   <ul>
     <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
   </ul>
-<a href="https://github.com/evorhard/Journal"><h3>My Joural</h3></a>
+<h3>My Joural</h3>
 <p>
-  This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.
+  <a href="https://github.com/evorhard/Journal">This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.</a>
 </p>
 <h3>Things I Use</h3>
 <span>
