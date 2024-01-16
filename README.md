@@ -12,7 +12,7 @@
   </ul>
 <h3>Profiles</h3>
 <span>
-  <a href=""><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/evert-de-ruiter-866313190/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BfGf4cjg8R6u20BGunyuE9g%3D%3D"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </span>
 <h3>My Joural</h3>
 <p>
