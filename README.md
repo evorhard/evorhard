@@ -10,6 +10,10 @@
   <ul>
     <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
   </ul>
+<h3>Profiles</h3>
+<span>
+  <a href=""><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</span>
 <h3>My Joural</h3>
 <p>
   <a href="https://github.com/evorhard/Journal">This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.</a>
