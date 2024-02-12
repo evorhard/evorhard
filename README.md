@@ -27,7 +27,7 @@
 </span>
 <h3><a href="https://github.com/evorhard/Journal">My Joural</a></h3>
 <p>
-  <a href="https://github.com/evorhard/Journal">This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.</a>
+  This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.
 </p>
 <h3>Things I Use</h3>
 <span>
