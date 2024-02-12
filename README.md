@@ -25,7 +25,7 @@
   <a href="https://exercism.org/profiles/evorhard"><img alt="exercism" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a>
   <a href="https://www.khanacademy.org/profile/evorhard"><img alt="khan-academy" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"></a>
 </span>
-<h3>My Joural</h3>
+<h3><a href="https://github.com/evorhard/Journal">My Joural</a></h3>
 <p>
   <a href="https://github.com/evorhard/Journal">This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.</a>
 </p>
