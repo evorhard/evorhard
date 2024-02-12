@@ -10,6 +10,10 @@
   <ul>
     <li><a href="https://github.com/evorhard/BNBMiner-Bot"><strong>BNBMiner Bot</strong></a><em> a Python script to automatically "hatch eggs"<strong>NOTE!</strong> Do not put any money into this DAPP!</em></li>
   </ul>
+<h3>Things I Am Working On</h3>
+  <ul>
+    <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em> a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them.</em></li>
+  </ul>
 <h3>Things Put On Hold</h3>
   <ul>
     <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
