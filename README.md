@@ -29,6 +29,10 @@
 <p>
   This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.
 </p>
+<h3><a href="https://github.com/evorhard/EvorLog/blob/main/courses-tutorials-and-guides.md">Course, Tutorials and Guides</a></h3>
+<p>
+  All the courses, tutorials, guides, and all the other stuff I have used to learn, that I have finished.
+</p>
 <h3>Things I Use</h3>
 <span>
   <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
