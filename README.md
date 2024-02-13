@@ -22,6 +22,10 @@
 <p>
   This section chronicles the range of courses, tutorials, and guides that I've completed, archiving my continuous learning.
 </p>
+<h3><a href="https://github.com/evorhard/Journal">My Joural</a></h3>
+<p>
+  In my journal, I diligently document my daily activities and progress, which may be of interest to those who follow my work.
+</p>
 <h3>Profiles</h3>
 <span>
   <a href="https://www.linkedin.com/in/evert-de-ruiter-866313190"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -32,10 +36,6 @@
   <a href="https://www.last.fm/user/HamSlamous"><img alt="lastfm" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
   <a href="https://www.goodreads.com/user/show/91598234-evorhard"><img alt="goodreads" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>
 </span>
-<h3><a href="https://github.com/evorhard/Journal">My Joural</a></h3>
-<p>
-  In my journal, I diligently document my daily activities and progress, which may be of interest to those who follow my work.
-</p>
 <h3>Things I Use</h3>
 <span>
   <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
