@@ -25,7 +25,7 @@
   <a href="https://exercism.org/profiles/evorhard"><img alt="exercism" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a>
   <a href="https://www.khanacademy.org/profile/evorhard"><img alt="khan-academy" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31oge27qqqrwm3beferdtnnjce6a"><img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.last.fm/user/HamSlamous"><img alt="lastfm" src"https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
+  <a href="https://www.last.fm/user/HamSlamous"><img alt="lastfm" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
 </span>
 <h3><a href="https://github.com/evorhard/Journal">My Joural</a></h3>
 <p>
