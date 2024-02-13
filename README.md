@@ -14,6 +14,10 @@
   <ul>
     <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em> a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them.</em></li>
   </ul>
+<h3><a href="https://github.com/evorhard/EvorStudy">Things I Am Studying</a></h3>
+<p>
+  All the courses, tutorials, guides, and all the other stuff I have used to learn, that I have finished.
+</p>
 <h3>Things Put On Hold</h3>
   <ul>
     <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
@@ -32,9 +36,6 @@
   This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.
 </p>
 <h3><a href="https://github.com/evorhard/EvorLog/blob/main/courses-tutorials-and-guides.md">Course, Tutorials and Guides</a></h3>
-<p>
-  All the courses, tutorials, guides, and all the other stuff I have used to learn, that I have finished.
-</p>
 <h3>Things I Use</h3>
 <span>
   <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
