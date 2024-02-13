@@ -1,20 +1,20 @@
 <h1> Welcome to my Github page.</h1>
 
 <p>
-  My name is Evert a.k.a. Evorhard, a fullstack developer from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="10"/> Eindhoven, Netherlands. I have 8 years of experience developing in Python, currently expanding my programming horizons with Rust, Solidity, Javascript and whatever else I fancy at the moment.
+  I am Evert, also known as Evorhard, a full-stack developer based in <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="10"/> Eindhoven, Netherlands, with over eight years of experience specializing in Python. I am currently broadening my expertise to include Rust, Solidity, JavaScript, among other technologies that pique my interest.
 </p>
 <p>
-  My avatar is in remembrance of my father who lost his life to cancer in May, 2023. A "great tit"; his favorite bird.
+  The avatar I've chosen is a tribute to my late father, who passed away from cancer in May 2023. It depicts a 'great tit,' which was his favorite bird.
 </p>
-<h3>Things I Have Finished</h3>
+<h3>Completed Projects</h3>
   <ul>
     <li><a href="https://github.com/evorhard/BNBMiner-Bot"><strong>BNBMiner Bot</strong></a><em> a Python script to automatically "hatch eggs"<strong>NOTE!</strong> Do not put any money into this DAPP!</em></li>
   </ul>
-<h3>Things I Am Working On</h3>
+<h3>Current Initiatives</h3>
   <ul>
     <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em> a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them.</em></li>
   </ul>
-<h3><a href="https://github.com/evorhard/EvorStudy">Things I Am Studying</a></h3>
+<h3><a href="https://github.com/evorhard/EvorStudy">Educational Pursuits</a></h3>
 <p>
   All the courses, tutorials, guides, and all the other stuff I have used to learn, that I have finished.
 </p>
@@ -33,9 +33,8 @@
 </span>
 <h3><a href="https://github.com/evorhard/Journal">My Joural</a></h3>
 <p>
-  This is where I keep track of pretty much everything I do on a daily basis, if that is to your interest.
+  In my journal, I diligently document my daily activities and progress, which may be of interest to those who follow my work.
 </p>
-<h3><a href="https://github.com/evorhard/EvorLog/blob/main/courses-tutorials-and-guides.md">Course, Tutorials and Guides</a></h3>
 <h3>Things I Use</h3>
 <span>
   <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
