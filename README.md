@@ -18,7 +18,7 @@
 <p>
   All the courses, tutorials, guides, and all the other stuff I have used to learn, that I have finished.
 </p>
-<h3>Things Put On Hold</h3>
+<h3>Archived Projects</h3>
   <ul>
     <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
   </ul>
