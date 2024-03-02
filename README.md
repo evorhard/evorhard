@@ -8,15 +8,15 @@
 </p>
 <h3>Completed Projects</h3>
   <ul>
-    <li><a href="https://github.com/evorhard/BNBMiner-Bot"><strong>BNBMiner Bot</strong></a><em> a Python script to automatically "hatch eggs"<strong>NOTE!</strong> Do not put any money into this DAPP!</em></li>
+    <li><a href="https://github.com/evorhard/BNBMiner-Bot"><strong>BNBMiner Bot</strong></a><em>: a Python script to automatically "hatch eggs" <strong>NOTE!</strong> Do not put any money into this DAPP!</em></li>
   </ul>
 <h3>Current Initiatives</h3>
   <ul>
-    <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em> a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them.</em></li>
+    <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em>: a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them.</em></li>
   </ul>
 <h3>Archived Projects</h3>
   <ul>
-    <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em> a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
+    <li><a href="https://github.com/evorhard/Disc-List-Scout--Music-Discovery"><strong>Disc List Scout: Music Discovery</strong></a><em>: a Python-based application designed to help the way music enthusiasts discover new albums</em></li>
   </ul>
 <h3><a href="https://github.com/evorhard/EvorStudy">Educational Pursuits</a></h3>
 <p>
