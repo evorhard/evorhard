@@ -12,7 +12,7 @@
   </ul>
 <h3>Current Initiatives</h3>
   <ul>
-    <li><a href="https://github.com/evorhard/EvorToken"><strong>EvorToken</strong></a><em>: a custom token built with the using Foundry toolkit.</em></li>
+    <li><a href="https://github.com/evorhard/EvorToken"><strong>EvorToken</strong></a><em>: a custom token built with the using Foundry toolkit and OpenZeppelin contracts.</em></li>
   </ul>
 <h3>Initiatives on Hold</h3>
   <ul>
