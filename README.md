@@ -12,7 +12,11 @@
   </ul>
 <h3>Current Initiatives</h3>
   <ul>
-    <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em>: a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them.</em></li>
+    <li><a href="https://github.com/evorhard/EvorToken"><strong>EvorToken</strong></a><em>: a custom token built with the using Foundry toolkit.</em></li>
+  </ul>
+<h3>Initiatives on Hold</h3>
+  <ul>
+    <li><a href="https://github.com/evorhard/Playlist-Preserver"><strong>Playlist Preserver</strong></a><em>: a Python-based application that makes backups of your Spotify playlists so you never have to worry about losing them. Currenlty in very early alpha stage but the most basic functionality is there. On hold to focus on other projects.</em></li>
   </ul>
 <h3>Archived Projects</h3>
   <ul>
