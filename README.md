@@ -41,7 +41,7 @@ class Evorhard:
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
