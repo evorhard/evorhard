@@ -67,7 +67,7 @@ class Evorhard:
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://tauri.app/img/tauri.svg" width="48" height="48" alt="Tauri" />
+      <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/icon.png" width="48" height="48" alt="Tauri" />
       <br>Tauri
     </td>
     <td align="center" width="96">
