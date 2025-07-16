@@ -5,7 +5,8 @@
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
   
 </div>
 
@@ -18,13 +19,16 @@ class Evorhard:
     def __init__(self):
         self.role = "Tech Lead & Software Developer"
         self.experience = "10+ years"
+        self.core_stack = ["Python", "TypeScript", "Rust", "JavaScript"]
+        self.currently_mastering = ["React", "Tauri", "Vite", "SQLite"]
         self.interests = ["AI/ML", "Blockchain", "Learning", "Reading", "Drawing"]
         
     def current_focus(self):
         return {
-            "building": "Offline-first productivity tools",
+            "building": "Offline-first productivity tools with Tauri",
             "exploring": "AI integration patterns",
-            "learning": "Always something new"
+            "learning": "Modern desktop app development",
+            "stack": "Tauri + React + TypeScript + Rust"
         }
 ```
 
@@ -55,6 +59,32 @@ class Evorhard:
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
       <br>Blender
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://tauri.app/img/tauri.svg" width="48" height="48" alt="Tauri" />
+      <br>Tauri
+    </td>
+    <td align="center" width="96">
+      <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
+      <br>Vitest
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
