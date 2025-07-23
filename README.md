@@ -1,4 +1,4 @@
-# Hi there, I'm Evert de Ruiter, aka as Evorhard aka as Ham Slamous 👋
+# Hi there, I'm Evert de Ruiter, aka as Evorhard aka as Ham Slamous👋
 
 <div align="center">
   
