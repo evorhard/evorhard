@@ -79,8 +79,8 @@ class Evorhard:
       <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
-      <br>Bun
+      <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
+      <br>Vitest
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
