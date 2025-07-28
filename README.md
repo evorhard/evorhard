@@ -1,11 +1,11 @@
-# Hi there, I'm Evert ,aka as Evorhard aka as Ham Slamous 👋
+# Hi there, I'm Evert, aka Evorhard aka Ham Slamous 👋
 
 <div align="center">
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/)
   [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
   
 </div>
@@ -20,15 +20,15 @@ class Evorhard:
         self.role = "Tech Lead & Software Developer"
         self.experience = "10+ years"
         self.core_stack = ["Python", "TypeScript", "Rust", "JavaScript"]
-        self.currently_mastering = ["React", "Tauri", "Vite", "SQLite"]
+        self.currently_mastering = ["SolidJS", "Tauri", "Vite", "SQLite"]
         self.interests = ["AI/ML", "Blockchain", "Learning", "Reading", "Drawing"]
         
     def current_focus(self):
         return {
-            "building": "Offline-first productivity tools with Tauri",
+            "building": "Local-first productivity tools with Tauri",
             "exploring": "AI integration patterns",
             "learning": "Modern desktop app development",
-            "stack": "Tauri + React + TypeScript + Rust"
+            "stack": "Tauri + SolidJS + TypeScript + Rust"
         }
 ```
 
@@ -63,8 +63,8 @@ class Evorhard:
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
+      <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" width="48" height="48" alt="SolidJS" />
+      <br>SolidJS
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/icon.png" width="48" height="48" alt="Tauri" />
@@ -79,8 +79,8 @@ class Evorhard:
       <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
-      <br>Vitest
+      <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
+      <br>Bun
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -105,7 +105,7 @@ class Evorhard:
 
 ## 🔭 Current Projects
 
-- 🧠 **[EvorBrain](https://github.com/evorhard/EvorBrain)** - Building an offline-first personal productivity system with Tauri & React
+- 🧠 **[EvorBrain](https://github.com/evorhard/EvorBrain)** - Building a local-first life management system combining Notion's organization with Obsidian's data ownership. Built with Tauri, SolidJS & SQLite for blazing-fast performance.
 - 🚀 More exciting projects coming soon...
 
 ## 📫 Let's Connect
