@@ -27,7 +27,7 @@ class Evorhard:
         return {
             "building": "A life management app that actually respects your data",
             "exploring": "How to make AI useful without being annoying",
-            "learning": "MDesktop apps (I hope they're making a comeback)",
+            "learning": "Desktop apps (I hope they're making a comeback)",
             "stack": "Tauri + SolidJS + TypeScript + Rust"
         }
 ```
