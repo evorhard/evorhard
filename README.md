@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-**Tech Lead & Software Developer** with over 10 years of Python experience. I focus on building scalable solutions while leading development teams. Always looking to learn new technologies and write clean, maintainable code.
+**Tech Lead & Software Developer** with over 10 years of Python experience. I focus on building scalable solutions while leading development teams. Always looking to learn new technologies and write clean, maintainable code (hopefully 🤞).
 
 ```python
 class Evorhard:
