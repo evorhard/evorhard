@@ -35,7 +35,7 @@
   <div style="margin: 30px 0;">
     <h3 style="color: #58a6ff;">🛠️ Languages & Tools</h3>
     <div style="margin: 20px 0;">
-      <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,git,docker,linux&theme=dark" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=python,rust,ts,react,tauri,svelte,tailwind,nodejs,linux&theme=dark" alt="Tech Stack" />
     </div>
   </div>
   <!-- Footer -->
