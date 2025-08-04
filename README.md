@@ -1,6 +1,6 @@
 # Evorhard
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=A+decade+of+turning+i
+  [Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=A+decade+of+turning+i
   deas+into+reality;Currently+building+something+extraordinary;The+best+code+is+the+one+that+solves+real+problems)](https://git.io/typing-svg)
 
   ## The Journey So Far
