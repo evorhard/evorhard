@@ -1,120 +1,93 @@
-# Hi there, I'm Evert, aka Evorhard aka Ham Slamous 👋
+# Evorhard
 
-<div align="center">
-  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-  [![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/)
-  [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
-  
-</div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=A+decade+of+turning+i
+  deas+into+reality;Currently+building+something+extraordinary;The+best+code+is+the+one+that+solves+real+problems)](https://git.io/typing-svg)
 
-## 🚀 About Me
+  ## The Journey So Far
 
-**Tech Lead & Software Developer** with over 10 years of Python experience. I focus on building scalable solutions while leading development teams. Always looking to learn new technologies and write clean, maintainable code (hopefully 🤞).
+  Ten years ago, I wrote my first Python script to automate a tedious task. That small victory sparked an obsession with building tools that make life better.
+  Since then, I've built high-scale systems and led teams under pressure, discovering that the best solutions emerge when you question everything.
 
-```python
-class Evorhard:
-    def __init__(self):
-        self.role = "Tech Lead & Software Developer"
-        self.experience = "10+ years"
-        self.core_stack = ["Python", "TypeScript", "Rust", "JavaScript"]
-        self.currently_mastering = ["SolidJS", "Tauri", "Vite", "SQLite"]
-        self.interests = ["AI/ML", "Blockchain", "Learning", "Reading", "Drawing"]
-        
-    def current_focus(self):
-        return {
-            "building": "A life management app that actually respects your data",
-            "exploring": "How to make AI useful without being annoying",
-            "learning": "Desktop apps (I hope they're making a comeback)",
-            "stack": "Tauri + SolidJS + TypeScript + Rust"
-        }
-```
+  Recently promoted to Tech Lead, I've discovered that empowering others to build is even more rewarding than building alone.
 
-## 💻 Tech Stack
+  ## What I'm Building Now
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="48" height="48" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
-      <br>Blender
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" width="48" height="48" alt="SolidJS" />
-      <br>SolidJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/icon.png" width="48" height="48" alt="Tauri" />
-      <br>Tauri
-    </td>
-    <td align="center" width="96">
-      <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
-      <br>Vitest
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+  ### 🚀 Project Nexus [Private Beta]
 
-## 🌟 What I'm Into
+  After years of using tools that almost work, I'm building one that actually does.
 
-- 🤖 **AI Enthusiast**: Exploring the intersection of AI and practical software development
-- 🔗 **Crypto Enthusiast**: Interested in blockchain technology and decentralized systems
-- 📚 **Lifelong Learner**: Always reading, learning, and expanding my knowledge
-- 🎨 **Creative Side**: Drawing and 3D modeling in my free time
+  <details>
+  <summary>What I can share...</summary>
 
-## 📊 GitHub Stats
+  **The Problem**: Every productivity tool makes the same trade-offs. Speed or features. Privacy or collaboration. Simplicity or power. What if we didn't have
+   to choose?
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evorhard&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evorhard&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
-</div>
+  **The Approach**: Starting from first principles. Questioning every assumption. Building with obsessive attention to performance.
 
-## 🔭 Current Projects
+  **Current Metrics**:
+  - Search latency: <50ms across 10,000+ items
+  - Cold start: 2 seconds flat
+  - Memory footprint: 60% smaller than alternatives
+  - User operations: Zero network calls required
 
-- 🧠 **[EvorBrain](https://github.com/evorhard/EvorBrain)** - A life management app that keeps your data local. Think Notion meets Obsidian, however complety open source, do what it what you want, and hopefully, faster.
-- 🚀 More exciting projects coming soon...
+  **Status**: Foundation set up.
 
-## 📫 Let's Connect
+  </details>
 
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evorhard)
-  <!-- Add other social links as needed -->
-  
-</div>
+  ## Philosophy & Craft
 
----
+  ```python
+  def build_software():
+      """
+      My approach to creating meaningful technology
+      """
+      principles = {
+          "performance": "If it's not instant, it's not finished",
+          "simplicity": "Complex problems don't require complex interfaces",
+          "reliability": "Software should work everywhere, always",
+          "respect": "User data is sacred, treat it as such"
+      }
+      return transform_principles_to_reality(principles)
+
+  I believe software should be:
+  - Fast - Response time is user respect
+  - Reliable - Work offline, sync when convenient
+  - Honest - Do what it says, nothing more
+  - Lasting - Built to work in 10 years, not just today
+
+  Technical Arsenal
+
+  Core Expertise
+
+  https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+  https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white
+  https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white
+  https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+
+  Areas of Deep Knowledge
+
+  - System Architecture & Design
+  - Performance Optimization
+  - Team Leadership & Mentorship
+  - API Design & Implementation
+  - Data Processing Pipelines
+
+  Open Source & Learning
+
+  Connect & Collaborate
+
+  I'm always interested in conversations about:
+  - Building software that respects users
+  - Performance optimization techniques
+  - The future of desktop applications
+  - Sustainable software architecture
+
+  Get Involved
+
+  - 💭 https://github.com/evorhard/evorhard/discussions - Share ideas and feedback
+  <!-- - 🚀 beta@example.com?subject=Project%20Nexus%20Beta - Try what I'm building -->
+  - 📖 /devlog - Follow the journey
+
+  ---
+  Status: 🟢 Open to interesting problems
